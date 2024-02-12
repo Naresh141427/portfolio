@@ -256,6 +256,10 @@ section h1 {
     background-image: url("./googleappstore.png");
 }
 
+.project10 {
+    background-image: url("./weather.png");
+}
+
 .footer-container {
     background-color: rgb(0, 33, 33);
     display: flex;
